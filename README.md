@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-- 🔭 I’m currently working on something cool <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="15px"/>
+- 🔭 I’m currently working on something cool <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="25px"/>
 
 - 🌱 I’m currently learning **Javascript - Node js - React js - sql - mongo db - express - Java**
 
