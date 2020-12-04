@@ -1,10 +1,10 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 
 - 🔭 I’m currently working on something cool <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="25px"/>
 
 - 🌱 I’m currently learning **Javascript - Node js - React js - sql - mongo db - express - Java**
 
-- 👨‍💻 All of my projects are available at [elPoeta](elPoeta)
+- 👨‍💻 All of my projects are available at [https://github.com/elPoeta](elPoeta)
 
 - 💬 Ask me about anything, I am happy to help;
 
