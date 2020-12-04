@@ -25,7 +25,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br>
+<a href="https://www.linkedin.com/in/leonardo-tosetto/">
+  <img align="left" alt="Leonardo's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/elPoetaDeveloper">
+  <img align="left" alt="Leonardo's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 <!--
 **elPoeta/elPoeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
