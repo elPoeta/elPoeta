@@ -28,13 +28,13 @@
 
 <br/>
 
-##### Contact
+#### Contact
 
 <a href="https://www.linkedin.com/in/leonardo-tosetto/">
   <img  alt="Leonardo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/elPoetaDeveloper">
-  <img margin-left="5px" alt="Leonardo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img alt="Leonardo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <!--
