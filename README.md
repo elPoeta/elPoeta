@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript - Node js - React js - sql - mongo db - express - Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/elPoeta](elPoeta)
+- 👨‍💻 All of my projects are available at (elPoeta)[https://github.com/elPoeta]
 
 - 💬 Ask me about anything, I am happy to help;
 
