@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="25px"/>
 
-- 🌱 I’m currently learning **Javascript - Node js - React js - sql - mongo db - express - Java**
+- 🌱 I’m currently learning **Typescript - Javascript - Solidity - Node js - React js - sql - mongo db - express - Java**
 
 - 👨‍💻 All of my projects are available at [elPoeta](https://github.com/elPoeta)
 
